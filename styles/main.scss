@@ -1,0 +1,18 @@
+body {
+  .ant-tag {
+    border-radius: 20px;
+    margin-right: 5px;
+  }
+
+  .ant-select,
+  .ant-select-dropdown {
+    .ant-select-item-option-content {
+      white-space: normal;
+    }
+
+    .ant-select-selection-item {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
